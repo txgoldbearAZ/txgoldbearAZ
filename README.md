@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @txgoldbearAZ
+- 👋 Hi, I’m Bernard
 - 👀 I’m interested in Learning more about Azure DevOps
 - 🌱 I’m currently learning via the Microsoft Learn portal and reading books in my spare time
 - 💞️ I’m looking to collaborate on building Webapps
